@@ -1,0 +1,17 @@
+{
+  "name": "never-miss-a-call",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "opencomputer deploy",
+    "session": "opencomputer session",
+    "doctor": "opencomputer doctor"
+  },
+  "dependencies": {
+    "@opencomputer/agent": "^0.5.3"
+  },
+  "devDependencies": {
+    "@opencomputer/cli": "^0.6.9"
+  }
+}

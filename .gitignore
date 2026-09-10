@@ -1,0 +1,4 @@
+node_modules/
+.opencomputer/
+opencomputer/.env.local
+demo.env
